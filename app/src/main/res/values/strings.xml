@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Ballot Unit</string>
+    <string name="_1">1</string>
+    <string name="image">image</string>
+    <string name="aaa">AAA</string>
+    <string name="symbol">α</string>
+    <string name="ready">Ready</string>
+
+    <!-- Default dimension -->
+    <dimen name="text_size">390sp</dimen>
+
+    <!-- Dimensions for specific screen sizes -->
+    <dimen name="text_size_small">300sp</dimen>
+    <dimen name="text_size_medium">330sp</dimen>
+    <dimen name="text_size_large">450sp</dimen>
+
+    <!-- Dimensions for specific screen densities -->
+    <dimen name="text_size_hdpi">900sp</dimen>
+    <dimen name="text_size_xhdpi">990sp</dimen>
+    <dimen name="text_size_xxhdpi">1200sp</dimen>
+    <!-- Add more densities as needed -->
+</resources>
